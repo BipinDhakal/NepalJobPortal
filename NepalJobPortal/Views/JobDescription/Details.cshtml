@@ -1,0 +1,99 @@
+﻿@model NepalJobPortal.Models.JobDescriptionViewModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="breadcrumbs">
+    <div class="breadcrumbs-inner">
+        <div class="row m-0">
+            <div class="col-sm-4">
+                <div class="page-header float-left">
+                    <div class="page-title">
+                        <h1>Job Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-8">
+                <div class="page-header float-right">
+                    <div class="page-title">
+                        <ol class="breadcrumb text-right">
+                            <li><a href="#">Job</a></li>
+                            <li><a href="@Url.Action("Index","JobDescription")">List</a></li>
+                            <li class="active">Details</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    @foreach(var item in Model.JobDescriptionList)
+    {
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            VendorName : @item.VendorName
+        </div>
+        
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            CategoryName : @item.CategoryName
+        </div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            JobType : @item.JobType
+        </div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            Level : @item.Level
+        </div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            VacancyNo : @item.VacancyNo
+        </div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            EmployeeType : @item.EmployeeType
+        </div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            JobLocation : @item.JobLocation
+        </div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            OfferedSalary : @item.OfferedSalary
+        </div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            DeadLine : @item.DeadLine
+        </div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            EducationLevel : @item.EducationLevel
+        </div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            ExperienceRequired : @item.ExperienceRequired
+        </div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            OtherSpecification : @item.OtherSpecification
+        </div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            JobWorkDescription : @item.JobWorkDescription
+        </div>
+    }
+</div>
+
+
+
+
+
+
+
+
+

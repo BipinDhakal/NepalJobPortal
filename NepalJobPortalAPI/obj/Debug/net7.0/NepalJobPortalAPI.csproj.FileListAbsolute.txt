@@ -1,0 +1,99 @@
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.exe
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.deps.json
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.runtimeconfig.json
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.dll
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.pdb
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.csproj.AssemblyReference.cache
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.AssemblyInfoInputs.cache
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.AssemblyInfo.cs
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.NepalJobPortalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.NepalJobPortalAPI.props
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NepalJobPortalAPI.props
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NepalJobPortalAPI.props
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\scopedcss\bundle\NepalJobPortalAPI.styles.css
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.csproj.CopyComplete
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.dll
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\refint\NepalJobPortalAPI.dll
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.pdb
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.genruntimeconfig.cache
+C:\Users\Dishhome\OneDrive\Desktop\Job Portal\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\ref\NepalJobPortalAPI.dll
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.exe
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.deps.json
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.runtimeconfig.json
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.dll
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.pdb
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.csproj.AssemblyReference.cache
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.AssemblyInfoInputs.cache
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.AssemblyInfo.cs
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.NepalJobPortalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.NepalJobPortalAPI.props
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NepalJobPortalAPI.props
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NepalJobPortalAPI.props
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\scopedcss\bundle\NepalJobPortalAPI.styles.css
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.csproj.CopyComplete
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.dll
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\refint\NepalJobPortalAPI.dll
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.pdb
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.genruntimeconfig.cache
+C:\Users\Dishhome\OneDrive\Desktop\React\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\ref\NepalJobPortalAPI.dll
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.exe
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.deps.json
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.runtimeconfig.json
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.dll
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.pdb
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.csproj.AssemblyReference.cache
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.AssemblyInfoInputs.cache
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.AssemblyInfo.cs
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.NepalJobPortalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.NepalJobPortalAPI.props
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NepalJobPortalAPI.props
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NepalJobPortalAPI.props
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\scopedcss\bundle\NepalJobPortalAPI.styles.css
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.csproj.CopyComplete
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.dll
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\refint\NepalJobPortalAPI.dll
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.pdb
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.genruntimeconfig.cache
+C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\ref\NepalJobPortalAPI.dll

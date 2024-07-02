@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortalAPI\\NepalJobPortalAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortalAPI\\NepalJobPortalAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortalAPI\\NepalJobPortalAPI.csproj",
+        "projectName": "NepalJobPortalAPI",
+        "projectPath": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortalAPI\\NepalJobPortalAPI.csproj",
+        "packagesPath": "C:\\Users\\Dishhome\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortalAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dishhome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

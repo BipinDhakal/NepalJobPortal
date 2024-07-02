@@ -1,0 +1,158 @@
+﻿@model NepalJobPortal.Models.OrganizationViewModel
+
+@using Microsoft.Extensions.DependencyInjection
+@* @inject IServiceProvider ServiceProvider
+@using NepalJobPortal.Utilities; *@
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+    // Func<IEnumerable<SelectListItem>> getOrgList = () => CommonUtilities.GetOrganizationList(ServiceProvider);
+}
+
+<div class="breadcrumbs">
+    <div class="breadcrumbs-inner">
+        <div class="row m-0">
+            <div class="col-sm-4">
+                <div class="page-header float-left">
+                    <div class="page-title">
+                        <h1>Organization</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-8">
+                <div class="page-header float-right">
+                    <div class="page-title">
+                        <ol class="breadcrumb text-right">
+                            <li><a href="#">Organization</a></li>
+                            <li><a href="@Url.Action("Index","Organization")">List</a></li>
+                            <li class="active">Create</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-9">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="card">
+                <div class="card-header"><strong>Create Organization</strong></div>
+                <div class="card-body card-block">
+
+                    @* <div class="form-group">
+                        <label>Select Organization</label>
+                        <select asp-for="OrgId" class="form-control"
+                                asp-items="@(new SelectList(ViewBag.OrganizationList,"OrgId","Name"))">
+                        </select>
+                        <span asp-validation-for="OrgName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Select</label>
+                        <select asp-for="OrgId" name="selectedCategoryId" class="form-control">
+                            @foreach (var item in ViewBag.OrganizationList)
+                            {
+                                <option value="@item.OrgId">@item.Name</option>
+                            }
+                        </select>
+                    </div> *@
+                    @* @Html.DropDownList("orgName", getOrgList(), "-- Select --", new { @class = "form-control show-tick", @id = "orgName", @required = "required" }) *@
+                    @* <div class="form-group">
+                        <label for="orgName">Select Organization</label>
+                        @Html.DropDownListFor(model=>model.OrgId, getOrgList(), "-- Select --", new { @class = "form-control show-tick", @id = "orgName" })
+                    </div> *@
+
+
+                    <div class="form-group">
+                        <label class="form-control-label">Organization Name</label>
+                        <input asp-for="OrgName" placeholder="Enter your organization name" class="form-control" />
+                        <span asp-validation-for="OrgName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-control-label">Organization Address</label>
+                        <input asp-for="OrgAddress" placeholder="Enter your organization address" class="form-control" />
+                        <span asp-validation-for="OrgAddress" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-control-label">Organization Contact</label>
+                        <input asp-for="OrgContact" class="form-control" />
+                        <span asp-validation-for="OrgContact" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-control-label">Organization Email</label>
+                        <input asp-for="OrgEmail" class="form-control" />
+                        <span asp-validation-for="OrgEmail" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group row ">
+                        <label class="form-control-label">Image</label>
+                        <div class="col-sm-6">
+                            <input type="file" name="file" />
+                        </div>
+                    </div>
+
+
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@* <h1>Create</h1>
+
+<h4>OrganizationViewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="OrgName" class="control-label"></label>
+                <input asp-for="OrgName" class="form-control" />
+                <span asp-validation-for="OrgName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OrgAddress" class="control-label"></label>
+                <input asp-for="OrgAddress" class="form-control" />
+                <span asp-validation-for="OrgAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OrgContact" class="control-label"></label>
+                <input asp-for="OrgContact" class="form-control" />
+                <span asp-validation-for="OrgContact" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OrgEmail" class="control-label"></label>
+                <input asp-for="OrgEmail" class="form-control" />
+                <span asp-validation-for="OrgEmail" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>  *@
+
+@* @section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+ *@

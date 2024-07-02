@@ -1,0 +1,84 @@
+﻿@model NepalJobPortal.Models.VendorOrganizationViewModel
+
+@using Microsoft.Extensions.DependencyInjection
+
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="breadcrumbs">
+    <div class="breadcrumbs-inner">
+        <div class="row m-0">
+            <div class="col-sm-4">
+                <div class="page-header float-left">
+                    <div class="page-title">
+                        <h1>Vendor Organization</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-8">
+                <div class="page-header float-right">
+                    <div class="page-title">
+                        <ol class="breadcrumb text-right">
+                            <li><a href="#">VendorOrganization</a></li>
+                            <li><a href="@Url.Action("Index","Vendor")">List</a></li>
+                            <li class="active">Create</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-9">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="card">
+                <div class="card-header"><strong>Create Vendor Organization</strong></div>
+                <div class="card-body card-block">
+
+                    <div class="form-group">
+                        <label class="form-control-label">Vendor Name</label>
+                        <input asp-for="VendorOrgName" class="form-control" />
+                        <span asp-validation-for="VendorOrgName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-control-label">Vendor Address</label>
+                        <input asp-for="VendorOrgAddress" class="form-control" />
+                        <span asp-validation-for="VendorOrgAddress" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-control-label">Vendor Contact</label>
+                        <input asp-for="VendorOrgContact" class="form-control" />
+                        <span asp-validation-for="VendorOrgContact" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-control-label">Vendor Email</label>
+                        <input asp-for="VendorOrgEmail" class="form-control" />
+                        <span asp-validation-for="VendorOrgEmail" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group row ">
+                        <label class="form-control-label">Image</label>
+                        <div class="col-sm-6">
+                            <input type="file" name="file" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
