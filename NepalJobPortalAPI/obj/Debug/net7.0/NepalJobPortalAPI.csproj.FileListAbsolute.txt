@@ -97,3 +97,36 @@ C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\Ne
 C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.pdb
 C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.genruntimeconfig.cache
 C:\Users\Dishhome\OneDrive\Desktop\New folder\Nepal Job Portal\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\ref\NepalJobPortalAPI.dll
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\appsettings.json
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.exe
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.deps.json
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.runtimeconfig.json
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.dll
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\NepalJobPortalAPI.pdb
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.csproj.AssemblyReference.cache
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.AssemblyInfoInputs.cache
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.AssemblyInfo.cs
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.csproj.CoreCompileInputs.cache
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.NepalJobPortalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.NepalJobPortalAPI.props
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NepalJobPortalAPI.props
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NepalJobPortalAPI.props
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\scopedcss\bundle\NepalJobPortalAPI.styles.css
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.csproj.CopyComplete
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.dll
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\refint\NepalJobPortalAPI.dll
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.pdb
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\NepalJobPortalAPI.genruntimeconfig.cache
+D:\BIPIN\PROJECTS\NepalJobPortal\NepalJobPortalAPI\obj\Debug\net7.0\ref\NepalJobPortalAPI.dll
