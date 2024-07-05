@@ -22,7 +22,7 @@ using NepalJobPortal.EntityModel;
 
 namespace NepalJobPortal.Areas.Identity.Pages.Account
 {
-    //[Authorize]
+    [Authorize]
     public class RegisterModel : PageModel
     {
         private readonly SignInManager<ApplicationIdentityUser> _signInManager;
