@@ -1,995 +1,995 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NepalJobPortal.bundle.scp.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NepalJobPortal.bundle.scp.css",
       "PackagePath": "staticwebassets\\NepalJobPortal.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\css\\bootstrap.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Content\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\css\\style.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\css\\style.css",
       "PackagePath": "staticwebassets\\Content\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\about-1.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\about-1.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\about-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\about-2.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\about-2.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\about-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\about-3.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\about-3.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\about-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\about-4.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\about-4.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\about-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\carousel-1.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\carousel-1.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\carousel-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\carousel-2.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\carousel-2.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\carousel-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\com-logo-1.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\com-logo-1.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\com-logo-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\com-logo-2.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\com-logo-2.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\com-logo-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\com-logo-3.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\com-logo-3.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\com-logo-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\com-logo-4.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\com-logo-4.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\com-logo-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\com-logo-5.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\com-logo-5.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\com-logo-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\testimonial-1.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\testimonial-2.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\testimonial-3.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\testimonial-3.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\testimonial-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\testimonial-4.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\img\\testimonial-4.jpg",
       "PackagePath": "staticwebassets\\Content\\img\\testimonial-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\js\\main.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\js\\main.js",
       "PackagePath": "staticwebassets\\Content\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\animate\\animate.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\animate\\animate.css",
       "PackagePath": "staticwebassets\\Content\\lib\\animate\\animate.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\animate\\animate.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\animate\\animate.min.css",
       "PackagePath": "staticwebassets\\Content\\lib\\animate\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\easing\\easing.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\Content\\lib\\easing\\easing.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\easing\\easing.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\Content\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\LICENSE",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\waypoints\\links.php",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\Content\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\waypoints\\waypoints.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\Content\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\wow\\wow.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\wow\\wow.js",
       "PackagePath": "staticwebassets\\Content\\lib\\wow\\wow.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\wow\\wow.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\lib\\wow\\wow.min.js",
       "PackagePath": "staticwebassets\\Content\\lib\\wow\\wow.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Content\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\cs-skin-elastic.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\cs-skin-elastic.css",
       "PackagePath": "staticwebassets\\DashboardContent\\css\\cs-skin-elastic.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\chosen\\chosen-sprite.png",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\chosen\\chosen-sprite.png",
       "PackagePath": "staticwebassets\\DashboardContent\\css\\lib\\chosen\\chosen-sprite.png"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\chosen\\chosen-sprite@2x.png",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\chosen\\chosen-sprite@2x.png",
       "PackagePath": "staticwebassets\\DashboardContent\\css\\lib\\chosen\\chosen-sprite@2x.png"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\chosen\\chosen.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\chosen\\chosen.css",
       "PackagePath": "staticwebassets\\DashboardContent\\css\\lib\\chosen\\chosen.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\chosen\\chosen.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\chosen\\chosen.min.css",
       "PackagePath": "staticwebassets\\DashboardContent\\css\\lib\\chosen\\chosen.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\datatable\\buttons.bootstrap.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\datatable\\buttons.bootstrap.min.css",
       "PackagePath": "staticwebassets\\DashboardContent\\css\\lib\\datatable\\buttons.bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\datatable\\buttons.dataTables.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\datatable\\buttons.dataTables.min.css",
       "PackagePath": "staticwebassets\\DashboardContent\\css\\lib\\datatable\\buttons.dataTables.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
       "PackagePath": "staticwebassets\\DashboardContent\\css\\lib\\datatable\\dataTables.bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\vector-map\\jqvmap.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\lib\\vector-map\\jqvmap.min.css",
       "PackagePath": "staticwebassets\\DashboardContent\\css\\lib\\vector-map\\jqvmap.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\style.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\style.css",
       "PackagePath": "staticwebassets\\DashboardContent\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\style.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\css\\style.css.map",
       "PackagePath": "staticwebassets\\DashboardContent\\css\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\fonts\\icomoon\\icomoon.eot",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\fonts\\icomoon\\icomoon.eot",
       "PackagePath": "staticwebassets\\DashboardContent\\fonts\\icomoon\\icomoon.eot"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\fonts\\icomoon\\icomoon.svg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\fonts\\icomoon\\icomoon.svg",
       "PackagePath": "staticwebassets\\DashboardContent\\fonts\\icomoon\\icomoon.svg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\fonts\\icomoon\\icomoon.ttf",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\fonts\\icomoon\\icomoon.ttf",
       "PackagePath": "staticwebassets\\DashboardContent\\fonts\\icomoon\\icomoon.ttf"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\fonts\\icomoon\\icomoon.woff",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\fonts\\icomoon\\icomoon.woff",
       "PackagePath": "staticwebassets\\DashboardContent\\fonts\\icomoon\\icomoon.woff"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\fonts\\icomoon\\index.html",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\fonts\\icomoon\\index.html",
       "PackagePath": "staticwebassets\\DashboardContent\\fonts\\icomoon\\index.html"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\dashboard.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\.gitignore",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\.gitignore"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\admin.jpg"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\avatar\\4.jpg"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\avatar\\5.jpg"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\avatar\\6.jpg",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\avatar\\6.jpg"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\avatar\\64-1.jpg",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\avatar\\64-1.jpg"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\avatar\\64-2.jpg",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\avatar\\64-2.jpg"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\logo.png",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\logo.psd",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\logo.psd"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\DashboardContent\\images\\logo2.png"
+    },
+    {
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\dashboard.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\dashboard.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\chartjs-init.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\chartjs-init.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\init\\chartjs-init.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\datatables-init.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\datatables-init.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\init\\datatables-init.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\flot-chart-init.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\flot-chart-init.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\init\\flot-chart-init.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\fullcalendar-init.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\fullcalendar-init.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\init\\fullcalendar-init.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\gmap-init.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\gmap-init.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\init\\gmap-init.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\peitychart-init.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\peitychart-init.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\init\\peitychart-init.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\vector-init.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\vector-init.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\init\\vector-init.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\weather-init.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\init\\weather-init.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\init\\weather-init.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\chosen\\chosen.jquery.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\chosen\\chosen.jquery.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\chosen\\chosen.jquery.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\chosen\\chosen.jquery.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\chosen\\chosen.jquery.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\chosen\\chosen.jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\chosen\\chosen.proto.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\chosen\\chosen.proto.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\chosen\\chosen.proto.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\chosen\\chosen.proto.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\chosen\\chosen.proto.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\chosen\\chosen.proto.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\buttons.bootstrap.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\buttons.bootstrap.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\buttons.bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\buttons.colVis.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\buttons.colVis.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\buttons.flash.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\buttons.flash.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\buttons.flash.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\buttons.html5.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\buttons.html5.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\buttons.html5.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\buttons.print.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\buttons.print.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\buttons.print.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\dataTables.bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\dataTables.buttons.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\dataTables.buttons.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\datatables.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\datatables.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\datatables.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\jquery-1.12.4.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\jquery-1.12.4.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\jquery.dataTables.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\jquery.dataTables.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\jszip.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\jszip.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\jszip.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\pdfmake.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\pdfmake.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\pdfmake.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\vfs_fonts.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\data-table\\vfs_fonts.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\data-table\\vfs_fonts.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\gmap\\gmapApi.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\gmap\\gmapApi.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\gmap\\gmapApi.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\gmap\\gmaps.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\gmap\\gmaps.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\gmap\\gmaps.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\gmap\\gmaps.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\lib\\gmap\\gmaps.min.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\lib\\gmap\\gmaps.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\main.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\main.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\vmap.sampledata.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\vmap.sampledata.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\vmap.sampledata.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\widgets.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\js\\widgets.js",
       "PackagePath": "staticwebassets\\DashboardContent\\js\\widgets.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\scss\\style.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\scss\\style.css",
       "PackagePath": "staticwebassets\\DashboardContent\\scss\\style.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\scss\\style.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\scss\\style.css.map",
       "PackagePath": "staticwebassets\\DashboardContent\\scss\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\scss\\style.scss",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\DashboardContent\\scss\\style.scss",
       "PackagePath": "staticwebassets\\DashboardContent\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Files\\185b9349-2c30-44a8-afa3-05f7b4f8ee6alogo1.jpeg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Files\\185b9349-2c30-44a8-afa3-05f7b4f8ee6alogo1.jpeg",
       "PackagePath": "staticwebassets\\Files\\185b9349-2c30-44a8-afa3-05f7b4f8ee6alogo1.jpeg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Files\\97426fa8-87ce-44ed-8398-a4fa7b97e73fChitwanKalatmakLogo.jpg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Files\\97426fa8-87ce-44ed-8398-a4fa7b97e73fChitwanKalatmakLogo.jpg",
       "PackagePath": "staticwebassets\\Files\\97426fa8-87ce-44ed-8398-a4fa7b97e73fChitwanKalatmakLogo.jpg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Files\\adfaf980-edf1-4f82-9b7e-c561d3a1b4e4logo2.jpeg",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\Files\\adfaf980-edf1-4f82-9b7e-c561d3a1b4e4logo2.jpeg",
       "PackagePath": "staticwebassets\\Files\\adfaf980-edf1-4f82-9b7e-c561d3a1b4e4logo2.jpeg"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\css\\site.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\favicon.ico",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\.gitignore",
-      "PackagePath": "staticwebassets\\images\\.gitignore"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\admin.jpg",
-      "PackagePath": "staticwebassets\\images\\admin.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\avatar\\1.jpg",
-      "PackagePath": "staticwebassets\\images\\avatar\\1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\avatar\\2.jpg",
-      "PackagePath": "staticwebassets\\images\\avatar\\2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\avatar\\3.jpg",
-      "PackagePath": "staticwebassets\\images\\avatar\\3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\avatar\\4.jpg",
-      "PackagePath": "staticwebassets\\images\\avatar\\4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\avatar\\5.jpg",
-      "PackagePath": "staticwebassets\\images\\avatar\\5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\avatar\\6.jpg",
-      "PackagePath": "staticwebassets\\images\\avatar\\6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\avatar\\64-1.jpg",
-      "PackagePath": "staticwebassets\\images\\avatar\\64-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\avatar\\64-2.jpg",
-      "PackagePath": "staticwebassets\\images\\avatar\\64-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\favicon.png",
-      "PackagePath": "staticwebassets\\images\\favicon.png"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\logo.png",
-      "PackagePath": "staticwebassets\\images\\logo.png"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\logo.psd",
-      "PackagePath": "staticwebassets\\images\\logo.psd"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\images\\logo2.png",
-      "PackagePath": "staticwebassets\\images\\logo2.png"
-    },
-    {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\js\\site.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

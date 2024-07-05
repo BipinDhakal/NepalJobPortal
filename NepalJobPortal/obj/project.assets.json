@@ -12033,11 +12033,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\NepalJobPortal.csproj",
+      "projectUniqueName": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\NepalJobPortal.csproj",
       "projectName": "NepalJobPortal",
-      "projectPath": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\NepalJobPortal.csproj",
+      "projectPath": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\NepalJobPortal.csproj",
       "packagesPath": "C:\\Users\\Dishhome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortal\\obj\\",
+      "outputPath": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dishhome\\AppData\\Roaming\\NuGet\\NuGet.Config",

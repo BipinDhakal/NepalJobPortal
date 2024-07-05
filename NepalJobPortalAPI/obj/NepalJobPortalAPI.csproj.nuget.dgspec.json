@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortalAPI\\NepalJobPortalAPI.csproj": {}
+    "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortalAPI\\NepalJobPortalAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortalAPI\\NepalJobPortalAPI.csproj": {
+    "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortalAPI\\NepalJobPortalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortalAPI\\NepalJobPortalAPI.csproj",
+        "projectUniqueName": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortalAPI\\NepalJobPortalAPI.csproj",
         "projectName": "NepalJobPortalAPI",
-        "projectPath": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortalAPI\\NepalJobPortalAPI.csproj",
+        "projectPath": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortalAPI\\NepalJobPortalAPI.csproj",
         "packagesPath": "C:\\Users\\Dishhome\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dishhome\\OneDrive\\Desktop\\Section H\\NepalJobPortal\\NepalJobPortalAPI\\obj\\",
+        "outputPath": "D:\\BIPIN\\PROJECTS\\NepalJobPortal\\NepalJobPortalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dishhome\\AppData\\Roaming\\NuGet\\NuGet.Config",
