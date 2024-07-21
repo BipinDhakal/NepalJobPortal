@@ -49,7 +49,8 @@ namespace NepalJobPortal.Controllers
             {
                 var currentUserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
                 var OrdId = _applicationDbContext.Users.Where(x => x.Id == currentUserId).Select(x => x.OrgId).FirstOrDefault();
-                model.JobDescriptionList = model.JobDescriptionList.Where(x => x.vendorOrgId == OrdId).ToList();
+                model.JobDescriptionList = model.JobDescriptionList
+                    .Where(x => x.vendorOrgId == OrdId).ToList();
             }
             return View(model);
         }
@@ -70,7 +71,14 @@ namespace NepalJobPortal.Controllers
             int currentloginOrgId = CommonUtilities.GetCurrentUserId(_applicationDbContext, User.FindFirstValue(ClaimTypes.NameIdentifier));
 
             JobDescription org = new JobDescription();
-            org.vendorOrgId = model.vendorOrgId;
+            if(User.IsInRole("SuperAdmin"))
+            {
+                org.vendorOrgId = model.vendorOrgId;
+            }
+            else
+            {
+                org.vendorOrgId = currentloginOrgId;
+            }
             org.CategoryId = model.CategoryId;
             org.JobType = model.JobType;
             org.Level = model.Level;

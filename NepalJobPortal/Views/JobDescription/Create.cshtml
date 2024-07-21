@@ -45,10 +45,14 @@
                 <div class="card-header"><strong>Create Job List</strong></div>
                 <div class="card-body card-block">
                    
-                    <div class="form-group">
-                    <label for="orgName">Select Vendor</label>
-                        @Html.DropDownListFor(model=>model.vendorOrgId, getVendorList(), "-- Select --", new { @class = "form-control show-tick", @id = "orgName" })
-                    </div>
+                    @if(User.IsInRole("SuperAdmin"))
+                    {
+                        <div class="form-group">
+                            <label for="orgName">Select Vendor</label>
+                            @Html.DropDownListFor(model=>model.vendorOrgId, getVendorList(), "-- Select --", new { @class = "form-control show-tick", @id = "orgName" })
+                        </div>
+                    }
+                    
                     <div class="form-group">
                         <label for="orgName">Select Category</label>
                         @Html.DropDownListFor(model=>model.CategoryId, getCategoryList(), "-- Select --", new { @class = "form-control show-tick", @id = "orgName" })

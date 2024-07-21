@@ -1,4 +1,6 @@
-﻿@{
+﻿@model NepalJobPortal.Models.DashboardViewModel
+
+@{
     Layout = "_AdminLayout";
 }
     <!-- Widgets  -->
@@ -12,8 +14,8 @@
                         </div>
                         <div class="stat-content">
                             <div class="text-left dib">
-                                <div class="stat-text">$<span class="count">23569</span></div>
-                                <div class="stat-heading">Revenue</div>
+                                <div class="stat-text"><span class="count">@Model.VendorCount</span></div>
+                                <div class="stat-heading">Vendors</div>
                             </div>
                         </div>
                     </div>

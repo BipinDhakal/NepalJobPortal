@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using NepalJobPortal.Data;
 using NepalJobPortal.EntityModel;
+using NepalJobPortal.Models;
 using NepalJobPortal.Utilities;
 using System.Security.Claims;
 
@@ -40,6 +41,8 @@ namespace NepalJobPortal.AdminDashboard
 
         public async Task<IActionResult> Index()
         {
+            DashboardViewModel model = new DashboardViewModel();
+            model.VendorCount = _applicationDbContext.VendorOrganization.Count();
             var currentUserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
             if (currentUserId != null)
             {
@@ -53,7 +56,7 @@ namespace NepalJobPortal.AdminDashboard
             var user = await _userManager.GetUserAsync(User);
             var roles = await _userManager.GetRolesAsync(user);
             var currentUserRole = roles.FirstOrDefault();
-            return View();
+            return View(model);
         }
     }
 }
